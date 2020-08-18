@@ -1,0 +1,48 @@
+.headtitle{
+
+	padding: 3% 2%;
+}
+
+.COOJtitle{
+	padding-top: 3%;
+}
+
+.CTtitle{
+	text-align: left;
+}
+
+.CTcontent , .text{
+
+	padding-bottom: 2%;
+
+}
+
+.RTcontent , .text2{
+	padding-top: 1%;
+	padding-bottom: 2%;
+
+}
+
+.MFtitle{
+
+	padding-top: 3%;
+
+}
+
+.MFcontent , .text2{
+
+	padding-bottom: 2%;
+}
+
+.Ltitle{
+
+	padding-top: 5%;
+}
+
+.Fcontent , .fortis{
+	height: 130px;	
+}
+
+.Fcontent , .text2{
+
+} 
